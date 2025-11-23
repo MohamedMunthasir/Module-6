@@ -32,8 +32,8 @@ To write a Python program to create a Parent class `Bird` and inherit two child 
 ---
 
 ### PROGRAM
-NAME: Rahul B
-REG NO: 212222220032
+NAME: Mohamed Munthasir Y
+REG NO: 212222220025
 
 ```
 class Bird:
