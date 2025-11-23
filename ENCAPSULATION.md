@@ -24,8 +24,8 @@ To write a Python program to create a class `Student` with the private members `
 ---
 
 ### PROGRAM
-NAME: Rahul B
-REG NO: 212222220032
+NAME: Mohamed Munthasir Y
+REG NO: 212222220025
 
 ```
 class Class1Students:
